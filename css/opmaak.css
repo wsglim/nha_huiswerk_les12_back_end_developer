@@ -1,0 +1,67 @@
+* {
+    font-family: arial;
+    color:white;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+td {
+    padding: 20px;
+}
+header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: grey;
+}
+footer {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: lightgrey;
+}
+#darkred {
+    background-color: darkred;
+}
+#red {
+    background-color: red;
+}
+#orange {
+    background-color: orange;
+}
+#yellow {
+    background-color: yellow;
+}
+#darkgreen {
+    background-color: darkgreen;
+}
+#olive {
+    background-color: olive;
+}
+#lime {
+    background-color: lime;
+}
+#lightgreen {
+    background-color: lightgreen;
+}
+#navy {
+    background-color: navy;
+}
+#blue {
+    background-color: blue;
+}
+#deepskyblue {
+    background-color: deepskyblue;
+}
+#lightblue {
+    background-color: lightblue;
+}
+#indigo {
+    background-color: indigo;
+}
+#darkviolet {
+    background-color: darkviolet;
+}
+#magenta {
+    background-color: magenta;
+}
+#violet {
+    background-color: violet;
+}
